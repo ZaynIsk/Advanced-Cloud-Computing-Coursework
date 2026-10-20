@@ -1,0 +1,1 @@
+Testing API's and local browser get requests. Used  "{student_id}" and routering.
